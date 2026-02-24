@@ -24,6 +24,7 @@ model/
 *.tar.gz
 *.7z
 *.rar
+*.keras
 ngrok
 
 # --- Secrets / env ---
