@@ -1,0 +1,53 @@
+# --- Data & outputs (project-specific) ---
+dataset/
+output/
+
+# If "model/" contains checkpoints/weights, ignore it:
+model/
+# Or if you want to keep model folder but ignore weights only, use:
+# model/**/*
+# !model/README.md
+
+# --- Model weights/checkpoints (common ML formats) ---
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.h5
+*.tflite
+*.pkl
+*.joblib
+
+# --- Archives & large binaries ---
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.rar
+ngrok
+
+# --- Secrets / env ---
+.env
+*.env
+*secret*
+*token*
+credentials*.json
+*.key
+*.pem
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# --- Logs ---
+*.log
+
+# --- OS / IDE ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
