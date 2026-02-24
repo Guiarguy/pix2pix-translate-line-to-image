@@ -41,6 +41,7 @@ __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
 script/training_checkpoints/    
+script/logs
 .venv/
 venv/
 env/
