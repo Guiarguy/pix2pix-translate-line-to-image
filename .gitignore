@@ -40,7 +40,7 @@ credentials*.json
 __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
-*.data-00000-of-00001
+script/training_checkpoints/    
 .venv/
 venv/
 env/
