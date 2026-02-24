@@ -14,7 +14,7 @@ output/
 *.pth
 *.ckpt
 *.onnx
-*.h5
+#*.h5
 *.tflite
 *.pkl
 *.joblib
@@ -25,7 +25,7 @@ output/
 *.tar.gz
 *.7z
 *.rar
-*.keras
+#*.keras
 ngrok
 
 # --- Secrets / env ---
