@@ -3,7 +3,8 @@ dataset/
 output/
 
 # If "model/" contains checkpoints/weights, ignore it:
-model/
+# model/
+
 # Or if you want to keep model folder but ignore weights only, use:
 # model/**/*
 # !model/README.md
