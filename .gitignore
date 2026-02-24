@@ -14,7 +14,7 @@ output/
 *.pth
 *.ckpt
 *.onnx
-#*.h5
+*.h5
 *.tflite
 *.pkl
 *.joblib
@@ -25,7 +25,7 @@ output/
 *.tar.gz
 *.7z
 *.rar
-#*.keras
+*.keras
 ngrok
 
 # --- Secrets / env ---
@@ -55,3 +55,8 @@ env/
 Thumbs.db
 .vscode/
 .idea/
+
+# ...but keep ONLY these three files
+!model/cat150.keras
+!model/dog150.keras
+!model/vgg19_transfer_model.h5
