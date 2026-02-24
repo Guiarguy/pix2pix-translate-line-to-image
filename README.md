@@ -4,7 +4,7 @@
 code:
 git clone https://github.com/Guiarguy/pix2pix-translate-line-to-image.git
 
-# maybe you will stuck here then you need to repair and use lfs use pull remain file down
+// maybe you will stuck here then you need to repair and use lfs use pull remain file down
 then you need to ctrl+c stop it and repair it
 code for repair:
 git restore --source=HEAD :/
