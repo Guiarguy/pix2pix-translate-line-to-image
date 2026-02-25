@@ -1,8 +1,8 @@
 # pix2pix-translate-line-to-image
 
 1. clone the project from here to your mechine
-   code:
-   git clone https://github.com/Guiarguy/pix2pix-translate-line-to-image.git
+   code:  
+   ```git clone https://github.com/Guiarguy/pix2pix-translate-line-to-image.git```
    
    #maybe you will stuck here then you need to repair and use lfs use pull remain file down  
    then you need to ctrl+c stop it and repair it  
