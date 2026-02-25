@@ -16,7 +16,7 @@
       Then you can start build the dockerfile and run it  
      
    code for build image:  
-   ```docker build -t pix2pix-line2img .```
+   ```docker build -t pix2pix-line2img .```  
    #note that the name of image is pix2pix-line2img  
    #recommed that running in wsl that will 100 times faster because of installing tensorflow
    
